@@ -40,7 +40,6 @@
               />
             </q-avatar>
           </q-item-section>
-
           <q-item-section>
             <q-item-label class="text-bold">erbek_h</q-item-label>
             <q-item-label caption>Hüseyin ERBEK</q-item-label>
